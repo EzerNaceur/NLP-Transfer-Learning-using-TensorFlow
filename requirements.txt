@@ -5,4 +5,3 @@ tensorflow_hub
 tensorflow_datasets
 scikit-learn
 IPython
--q git+https://github.com/tensorflow/docs
