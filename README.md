@@ -29,6 +29,7 @@ cd your_project
 ```
 pip install -r requirements.txt
 ```
+Or use the google colab link: https://colab.research.google.com/drive/1cKGnJXha_2dfZuJRu3e2FJpJxhiK0AxZ?usp=sharing
 ## Usage 📝
 
 1. **Data Preparation**: Prepare your text data for fine-tuning. This may include cleaning, preprocessing, and splitting into training/validation/test sets.
