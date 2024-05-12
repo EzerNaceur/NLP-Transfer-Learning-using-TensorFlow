@@ -26,10 +26,9 @@ cd your_project
 ```
 
 2. Install the required dependencies:
-   ```
-   pip install -r requirements.txt
-
-   ```
+```
+pip install -r requirements.txt
+```
 ## Usage 📝
 
 1. **Data Preparation**: Prepare your text data for fine-tuning. This may include cleaning, preprocessing, and splitting into training/validation/test sets.
@@ -43,10 +42,6 @@ cd your_project
 5. **Visualization with TensorBoard**: Integrate TensorBoard into your project to visualize training and evaluation metrics. Use TensorBoard to analyze model performance, identify potential issues, and track training progress.
 
 6. **Deployment**: Deploy the fine-tuned model for inference in your application or system. Ensure compatibility and optimize performance for your deployment environment.
-
-## Examples 📚
-
-- Example scripts and notebooks demonstrating how to perform transfer learning with TensorFlow Hub models are provided in the `examples/` directory.
 
 ## Contributing 🤝
 
